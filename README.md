@@ -82,6 +82,6 @@ The system displays a menu like this:
 
 ## 👨‍💻 Author
 
+Student - Guilherme Cauê Andrade Vasques
 INF008 - Object-Oriented Programming  
 Federal Institute of Bahia – IFBA
-Student - Guilherme Cauê Andrade Vasques
