@@ -1,0 +1,13 @@
+com\mycompany\app\events\Course.class
+com\mycompany\app\participants\Student.class
+com\mycompany\app\participants\Teacher.class
+com\mycompany\app\participants\Outsider.class
+com\mycompany\app\participants\Participant.class
+com\mycompany\app\events\Fair.class
+com\mycompany\app\main\Main.class
+com\mycompany\app\utils\CertificateUtil.class
+com\mycompany\app\events\IEvent.class
+com\mycompany\app\utils\ReportUtil.class
+com\mycompany\app\events\Event.class
+com\mycompany\app\events\Lecture.class
+com\mycompany\app\events\Workshop.class
